@@ -6,8 +6,8 @@ pipeline {
         stage('Clone') {
             steps {
                 echo 'Cloning repository...'
-                git branch: 'main',
-                    url: 'https://github.com/YOUR_USERNAME/employee-app.git'
+                git branch: 'Main',
+                    url: 'https://github.com/Krishna9451/employee-app'
             }
         }
 
