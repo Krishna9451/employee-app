@@ -31,7 +31,7 @@ employee-app/
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Krishna9451/employee-app
 cd employee-app
 ```
 
